@@ -1,21 +1,21 @@
 <h1 align="center">Hola, soy Anthony Gonzalez 👋</h1>
 
 <p align="center">
-  Estudiante de Ingeniería Informática | Enfoque en Análisis de Datos 📊
+  Estudiante de Ingeniería Informática | En formación en Análisis de Datos e Inteligencia Artificial 📊🤖
 </p>
 
 <p align="center">
-  Me interesa transformar datos en información útil mediante Python, SQL y visualización.
+  Me interesa transformar datos en información útil y seguir aprendiendo sobre análisis, visualización e IA aplicada.
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy estudiante de 7° semestre y actualmente estoy aprendiendo y fortaleciendo mis habilidades en el área de **análisis de datos**.  
-Me gusta trabajar con datos, encontrar patrones, limpiar información y convertirla en visualizaciones claras y útiles.
+Soy estudiante de 7° semestre de Ingeniería Informática y actualmente estoy fortaleciendo mis habilidades en **análisis de datos**, **visualización de información** e **inteligencia artificial**.  
+En este perfil comparto proyectos, prácticas y ejercicios con los que sigo aprendiendo a trabajar con datos, encontrar patrones y construir soluciones basadas en información.
 
-## 🛠️ Tecnologías que estoy aprendiendo
+## 🛠️ Tecnologías y herramientas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -35,6 +35,8 @@ Me gusta trabajar con datos, encontrar patrones, limpiar información y converti
 - Visualización de datos
 - Consultas SQL para análisis
 - Dashboards y reportes
+- Fundamentos de Inteligencia Artificial
+- Machine Learning aplicado a datos
 - Documentación de proyectos en GitHub
 
 ## 📌 Proyectos que encontrarás aquí
@@ -43,16 +45,16 @@ Me gusta trabajar con datos, encontrar patrones, limpiar información y converti
 - Limpieza y preparación de datos
 - Proyectos con Python y SQL
 - Visualizaciones y dashboards
-- Ejercicios y prácticas de aprendizaje
+- Ejercicios de aprendizaje en análisis de datos e IA
 
 ## 🎯 Objetivo
 
-Seguir creciendo como analista de datos junior, construyendo proyectos claros, bien documentados y enfocados en resolver problemas reales con datos.
+Seguir creciendo como profesional en el área de **análisis de datos**, mientras desarrollo bases sólidas en **inteligencia artificial** y **machine learning** para aplicar modelos y análisis a problemas reales.
 
 ## 📫 Contacto
 
 <p align="left">
-  <a href="https://linkedin.com/in/tu-perfil">
+  <a href="[https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/anthony-gonzalez-velasquez-37706b168/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tu_correo@email.com">
